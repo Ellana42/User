@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\mathcal{A}
+]]></content>
+<tabTrigger>mA</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

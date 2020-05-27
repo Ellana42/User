@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\mathcal{$1}
+]]></content>
+<tabTrigger>cal</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

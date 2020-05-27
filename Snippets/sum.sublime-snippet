@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\sum_{$1=$2}^{$3} $4
+]]></content>
+<tabTrigger>sum</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

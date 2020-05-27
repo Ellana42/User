@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\int_{$1=$2}^{$3} $4
+]]></content>
+<tabTrigger>integ</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

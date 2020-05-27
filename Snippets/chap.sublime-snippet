@@ -1,0 +1,8 @@
+
+<snippet>
+<content><![CDATA[
+\widehat{$1}]]></content>
+<tabTrigger>chap</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

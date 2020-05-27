@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"BracketHighlighter",
+		"InsertDate",
+		"knitr",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"LaTeXTools",
+		"Material Theme",
+		"Non Text Files",
+		"Notes",
+		"Package Control",
+		"Pandoc",
+		"Predawn",
+		"R-Box",
+		"SideBarEnhancements",
+		"Theme - Spacegray",
+		"Toggle Read-Only"
+	]
+}

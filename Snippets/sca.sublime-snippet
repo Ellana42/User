@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\langle$1\rangle
+]]></content>
+<tabTrigger>sca</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

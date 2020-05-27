@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+---
+title: "${1:Titre}"
+author: "Mathilde Kaploun"
+date: ""
+output: 
+    epuRate::epurate:
+        toc: TRUE
+        number_sections: FALSE
+        code_folding: "show"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rpreamble</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

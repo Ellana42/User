@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\bigcup_{$1=$2}^{$3} $4
+]]></content>
+<tabTrigger>union</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

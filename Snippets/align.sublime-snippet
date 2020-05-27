@@ -1,0 +1,12 @@
+
+<snippet>
+<content><![CDATA[
+\begin{align}
+$1 &$2 $3 \\\\
+$4 &$2 $5
+\end{align}
+]]></content>
+<tabTrigger>aligne</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

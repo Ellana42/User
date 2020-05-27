@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\mathsbb{N}
+]]></content>
+<tabTrigger>N</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

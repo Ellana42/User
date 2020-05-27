@@ -1,0 +1,7 @@
+{
+    
+"selector":"source.js",
+"shell": true,
+"cmd": ["mongo","<","$file"]
+
+}

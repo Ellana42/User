@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\emptyset
+]]></content>
+<tabTrigger>vide</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->

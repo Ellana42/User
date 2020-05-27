@@ -1,0 +1,9 @@
+
+<snippet>
+<content><![CDATA[
+\mathbb{R}
+]]></content>
+<tabTrigger>R</tabTrigger>
+</snippet>
+
+<!-- {$1:thing} -->
